@@ -2,6 +2,9 @@
 
 A lightweight, modern application to launch, manage, and sync JupyterLab notebook environments on [Modal](https://modal.com) cloud GPUs.
 
+![interface](gui.png)
+
+
 ## ⚡ Quick Start (Windows)
 
 ### Prerequisites
