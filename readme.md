@@ -2,16 +2,6 @@
 
 A lightweight, modern application to launch, manage, and sync JupyterLab notebook environments on [Modal](https://modal.com) cloud GPUs.
 
-## ✨ Features
-
-* ⚡ **One-Click JupyterLab Launch**: Spin up JupyterLab on cloud GPUs (T4, L4, A100, H100, B200) or CPU in seconds.
-* 🖥️ **Dual Modes**: Launch via the PySide6 Desktop GUI or an interactive Windows CLI batch menu.
-* 🔄 **Notebook Auto-Sync**: Keep your local `_notebook` folder and remote Modal drive automatically synchronized.
-* 🔒 **Token Vault**: Store API keys (Hugging Face, Civitai, W&B, OpenAI) securely using Windows DPAPI and sync them across Modal accounts.
-* 📁 **Remote Volume Browser**: Upload, download, browse, and edit persistent files on your Modal Volume.
-* ⏱️ **Auto-Idle Guard**: Auto-stops instances after a set period of inactivity to prevent unexpected charges.
-* 📊 **Usage & Cost Tracking**: Monitor monthly credit usage and account status.
-
 ## ⚡ Quick Start (Windows)
 
 ### Prerequisites
